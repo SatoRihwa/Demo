@@ -55,4 +55,8 @@ public class Sample {
 	public void setNum(int num) {
 		this.num = num;
 	}
+	
+	public void testAdd() {
+		System.out.println("ƒeƒXƒg");
+	}
 }
