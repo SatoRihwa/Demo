@@ -57,6 +57,6 @@ public class Sample {
 	}
 	
 	public void testAdd() {
-		System.out.println("テスト");
+		System.out.println("テストです");
 	}
 }
