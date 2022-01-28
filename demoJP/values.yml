@@ -1,4 +1,4 @@
 gitProvider: testGitHub
 artifactory: testArtifactory
 repoPath: SatoRihwa/Demo
-deployerRepo: default-maven-local
+deployerRepo: maven_repo-libs-snapshot-local

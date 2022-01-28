@@ -33,12 +33,12 @@
     <repository>
         <id>central</id>
         <name>a0fhdjbok6nvl-artifactory-primary-0-releases</name>
-        <url>https://rihwa.jfrog.io/artifactory/default-maven-local</url>
+        <url>https://rihwa.jfrog.io/artifactory/maven_repo-libs-snapshot-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>a0fhdjbok6nvl-artifactory-primary-0-snapshots</name>
-        <url>https://rihwa.jfrog.io/artifactory/default-maven-local</url>
+        <url>https://rihwa.jfrog.io/artifactory/maven_repo-libs-snapshot-local</url>
     </snapshotRepository>
    </distributionManagement>
   <build>
